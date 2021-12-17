@@ -11,3 +11,23 @@
 table {
     width: 100%;
 }
+
+th.mat-header-cell {
+    text-align: left;
+    font-size: medium;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.header-name{
+    margin-top: 9px;
+}
+
+.filter-heading{
+    color: #1761a8;
+    font-size: small;
+}
+
+.mat-raised-button{
+    margin-left: 10px;
+}
